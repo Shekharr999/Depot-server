@@ -1,0 +1,89 @@
+{
+    "Depot":
+    [
+        {
+            "id":100837823,
+            "NameOfDepot":"TBL Dar es Salaam Plant",
+            "InsertedBy":"Moses Mgema",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Aliwal North",
+            "InsertedBy":"Louis Venter",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Alrode Brewery",
+            "InsertedBy":"Brain Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Alrode Depot",
+            "InsertedBy":"Kajal Devraj",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Baragwanath",
+            "InsertedBy":"Richard Adams",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Bellville",
+            "InsertedBy":"Johanna Ramorola",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Louis Venter",
+            "InsertedBy":"Bethlehem Distributor",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Bloemfontein",
+            "InsertedBy":"Liezi Posthumus",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Butterworth",
+            "InsertedBy":"Louis Venter",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Central office",
+            "InsertedBy":"Brain Hart",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Chamdor Brewery",
+            "InsertedBy":"Kajal Devraj",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Chamdor Depot",
+            "InsertedBy":"Richard Adams",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Coleus Packinging",
+            "InsertedBy":"Louis Venter",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        },
+        {
+            "id":100837823,
+            "NameOfDepot":"Den",
+            "InsertedBy":"Sraddha",
+            "ModifiedDate":"2/08/2022 12:30:26 PM"
+        }
+    ]
+}
